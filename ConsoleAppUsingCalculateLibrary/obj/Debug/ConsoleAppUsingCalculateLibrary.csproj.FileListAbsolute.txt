@@ -1,0 +1,9 @@
+d:\Users\Admin\source\repos\ConsoleAppUsingCalculateLibrary\ConsoleAppUsingCalculateLibrary\bin\Debug\ConsoleAppUsingCalculateLibrary.exe.config
+d:\Users\Admin\source\repos\ConsoleAppUsingCalculateLibrary\ConsoleAppUsingCalculateLibrary\bin\Debug\ConsoleAppUsingCalculateLibrary.exe
+d:\Users\Admin\source\repos\ConsoleAppUsingCalculateLibrary\ConsoleAppUsingCalculateLibrary\bin\Debug\ConsoleAppUsingCalculateLibrary.pdb
+d:\Users\Admin\source\repos\ConsoleAppUsingCalculateLibrary\ConsoleAppUsingCalculateLibrary\bin\Debug\ClassLibCalculation.dll
+d:\Users\Admin\source\repos\ConsoleAppUsingCalculateLibrary\ConsoleAppUsingCalculateLibrary\bin\Debug\ClassLibCalculation.pdb
+d:\Users\Admin\source\repos\ConsoleAppUsingCalculateLibrary\ConsoleAppUsingCalculateLibrary\obj\Debug\ConsoleAppUsingCalculateLibrary.csprojResolveAssemblyReference.cache
+d:\Users\Admin\source\repos\ConsoleAppUsingCalculateLibrary\ConsoleAppUsingCalculateLibrary\obj\Debug\ConsoleAppUsingCalculateLibrary.csproj.CoreCompileInputs.cache
+d:\Users\Admin\source\repos\ConsoleAppUsingCalculateLibrary\ConsoleAppUsingCalculateLibrary\obj\Debug\ConsoleAppUsingCalculateLibrary.exe
+d:\Users\Admin\source\repos\ConsoleAppUsingCalculateLibrary\ConsoleAppUsingCalculateLibrary\obj\Debug\ConsoleAppUsingCalculateLibrary.pdb
